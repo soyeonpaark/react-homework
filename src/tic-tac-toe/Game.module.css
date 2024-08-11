@@ -1,0 +1,10 @@
+.component {
+  display: flex;
+  justify-content: center;
+  gap: 60px;
+
+  --primary-color: #ef8215;
+  --secondary-color: #f7f3ed;
+  --basic-color: #333333;
+  --square-size: 80px;
+}

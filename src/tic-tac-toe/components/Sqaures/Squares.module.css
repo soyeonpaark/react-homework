@@ -2,7 +2,7 @@
   --board-size: calc(var(--square-size) * 3);
   width: var(--board-size);
   height: var(--board-size);
-  border: 3px solid var(--primary-color);
+  border: 3px solid var(--basic-color);
   display: flex;
   flex-flow: row wrap;
 }

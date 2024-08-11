@@ -5,8 +5,8 @@ import Status from '../Status/Status';
 function Board() {
   return (
     <div className="Board">
-      <Squares />
       <Status />
+      <Squares />
     </div>
   );
 }
