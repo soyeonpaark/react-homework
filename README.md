@@ -34,7 +34,7 @@
 ┃ ┃ ┣ 📂Sqaures
 ┃ ┃ ┃ ┗ 📜Squares.jsx
 ┃ ┃ ┗ 📂Status
-┃ ┃ ┃ ┗ 📜Status.jsx
+┃ ┃ ┗ 📜Status.jsx
 ┃ ┣ 📜Game.jsx
 ┃ ┗ 📜constants.js
 ┗ 📜main.jsx
