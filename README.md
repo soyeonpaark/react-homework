@@ -22,13 +22,21 @@
 
 - 파일 구성 진행
 
-  📦src
-  ┣ 📂styles
-  ┃ ┗ 📜main.css
-  ┣ 📂tic-tac-toe
-  ┃ ┣ 📂components
-  ┃ ┣ 📜Game.jsx
-  ┃ ┗ 📜constants.js
-  ┗ 📜main.jsx
+📦src
+┣ 📂styles
+┃ ┗ 📜main.css
+┣ 📂tic-tac-toe
+┃ ┣ 📂components
+┃ ┃ ┣ 📂Board
+┃ ┃ ┃ ┗ 📜Board.jsx
+┃ ┃ ┣ 📂History
+┃ ┃ ┃ ┗ 📜History.jsx
+┃ ┃ ┣ 📂Sqaures
+┃ ┃ ┃ ┗ 📜Squares.jsx
+┃ ┃ ┗ 📂Status
+┃ ┃ ┃ ┗ 📜Status.jsx
+┃ ┣ 📜Game.jsx
+┃ ┗ 📜constants.js
+┗ 📜main.jsx
 
    </br>
