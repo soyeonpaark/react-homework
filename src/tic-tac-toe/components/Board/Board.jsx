@@ -1,3 +1,4 @@
+import './Board.module.css';
 import Squares from '../Sqaures/Squares';
 import Status from '../Status/Status';
 
