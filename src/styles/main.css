@@ -22,6 +22,14 @@ button {
   }
 
   &:disabled {
-    cursor: not-allowed;
+    opacity: 0.75;
+
+    &:hover:not(:disabled) {
+      opacity: 1;
+    }
+
+    &:disabled {
+      cursor: not-allowed;
+    }
   }
 }
